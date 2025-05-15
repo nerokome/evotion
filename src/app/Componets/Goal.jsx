@@ -9,7 +9,7 @@ return (
             <div className="p-9 relative z-10">
                 <div className="flex flex-col items-start justify-center h-full mt-40 p-6">
                     <h1 className="text-4xl font-bold text-start mb-4 sm:text-5xl">Our goal</h1>
-                    <p className="text-2xl text-center mb-8 sm:text-3xl">
+                    <p className="text-xl text-center mb-8 sm:text-3xl">
                         To build a community of believers centered on a shared faith,
                         daily encouragement and spiritual reflection.
                     </p>
